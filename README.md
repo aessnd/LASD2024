@@ -99,5 +99,3 @@ mytest.cpp
 ## Contributi
 
 Contributi sono benvenuti! Sentiti libero di aprire issue o pull request.
-
-### Distribuito sotto licenza MIT. Vedi il file LICENSE per i dettagli.
