@@ -28,30 +28,6 @@ Caratteristiche principali
 
     🚀 Efficienza garantita da implementazioni ottimizzate, sia in termini di memoria che di tempo di esecuzione.
 
-Architettura del progetto
-
-├── include/
-│   ├── stack.hpp
-│   ├── queue.hpp
-│   ├── list.hpp
-│   ├── vector.hpp
-│   ├── binarytree.hpp
-│   ├── hashtable.hpp
-│   └── ...
-├── src/
-│   ├── stack.cpp
-│   ├── queue.cpp
-│   ├── list.cpp
-│   ├── vector.cpp
-│   ├── binarytree.cpp
-│   ├── hashtable.cpp
-│   └── ...
-├── test/
-│   ├── zlasdtest.cpp
-│   └── mytest.cpp
-├── README.md
-├── Makefile
-└── main.cpp
 
 Requisiti
 
