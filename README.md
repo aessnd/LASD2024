@@ -1,5 +1,5 @@
-Strutture Dati - Implementazione in C++ 🔧📚
-Descrizione
+# Strutture Dati - Implementazione in C++ 🔧📚
+## Descrizione
 
 Questo progetto fornisce un'implementazione modulare e flessibile di diverse strutture dati fondamentali in C++. L'obiettivo principale è garantire riusabilità, estendibilità e manutenibilità attraverso l'uso di classi astratte e interfacce generiche.
 
@@ -29,13 +29,13 @@ Caratteristiche principali
     🚀 Efficienza garantita da implementazioni ottimizzate, sia in termini di memoria che di tempo di esecuzione.
 
 
-Requisiti
+## Requisiti
 
     Compilatore C++ (supporto per C++11 o superiore)
 
     GNU Make (per l'uso del Makefile)
 
-Compilazione
+## Compilazione
 
 Per compilare l'intero progetto, è sufficiente eseguire:
 
@@ -65,7 +65,7 @@ int main() {
     return 0;
 }
 
-Dettagli sulle Strutture Dati
+## Dettagli sulle Strutture Dati
 Struttura	Descrizione breve
 Stack	LIFO (Last In, First Out), implementato tramite array dinamici o liste
 Queue	FIFO (First In, First Out), con implementazioni basate su array circolari o liste
