@@ -1,4 +1,4 @@
-Implementazione delle librerie per la gestione delle strutture dati quali:
+Implementazione delle librerie per la gestione delle strutture dati quali: /n
 -Stack
 -Code
 -Vettori
