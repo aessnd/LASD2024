@@ -96,9 +96,9 @@ mytest.cpp
 
     Include casi limite, stress test e test di performance.
 
-Contributi
+## Contributi
 
 Contributi sono benvenuti! Sentiti libero di aprire issue o pull request.
 Licenza
 
-Distribuito sotto licenza MIT. Vedi il file LICENSE per i dettagli.
+### Distribuito sotto licenza MIT. Vedi il file LICENSE per i dettagli.
